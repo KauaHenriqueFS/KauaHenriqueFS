@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Kauã Henrique Fernandez dos Santos
 
-<!--
-**Meuzovisk/Meuzovisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do **Instituto Federal de São Paulo – Campus Salto**  
+💻 Curso: **Informática para Internet (Integrado ao Ensino Médio)**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que já aprendi:
+- **JavaScript** | **Node.js**  
+- **PostgreSQL** | **MySQL**  
+- **HTML5** | **CSS3**  
+
+---
+
+## 📚 Atualmente aprendendo:
+- **Java** ☕  
+- **APIs**  
+
+---
+
+## 💡 Sobre mim:
+Sou apaixonado por tecnologia e sempre buscando melhorar minhas habilidades em desenvolvimento de software e resolução de problemas.  
+Acredito que cada projeto é uma oportunidade para aprender algo novo.  
+
+---
+
+## 📫 Como me encontrar:
+- 💌 Email: *henriquefernandezsantos@gmail.com*
+- 🌐 [Meu GitHub](https://github.com/Meuzovisk)  
+
+---
+⭐ *Se gostou do meu perfil, não esqueça de deixar uma estrela nos meus repositórios!*
