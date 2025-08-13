@@ -9,12 +9,11 @@
 - **JavaScript** | **Node.js**  
 - **PostgreSQL** | **MySQL**  
 - **HTML5** | **CSS3**  
-
+- **APIs**
 ---
 
 ##  Atualmente aprendendo:
-- **Java**   
-- **APIs**  
+- **Java** 
 
 ---
 
