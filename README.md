@@ -26,5 +26,5 @@ Acredito que cada projeto é uma oportunidade para aprender algo novo.
 ##  Como me encontrar:
 -  Email: *henriquefernandezsantos@gmail.com*
 -  [Meu GitHub](https://github.com/Meuzovisk)  
-
+-  [Meu Linkedin](www.linkedin.com/in/kauãhenriquefs)
 ---
